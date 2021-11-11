@@ -1,8 +1,6 @@
 package audiofile.msscbrewery.contoller.v2;
 
-import audiofile.msscbrewery.model.BeerDto;
 import audiofile.msscbrewery.model.v2.BeerDtoV2;
-import audiofile.msscbrewery.service.BeerService;
 import audiofile.msscbrewery.service.v2.BeerServiceV2;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
